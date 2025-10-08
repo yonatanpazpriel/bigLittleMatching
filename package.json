@@ -1,0 +1,12 @@
+{
+  "name": "big-little-matcher",
+  "version": "1.0.0",
+  "description": "Big Little Matching Algorithm",
+  "scripts": {
+    "build": "cd stable-match && npm run build",
+    "dev": "cd stable-match && npm run dev",
+    "install": "cd stable-match && npm install"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}

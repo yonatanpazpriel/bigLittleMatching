@@ -1,0 +1,11 @@
+{
+  "buildCommand": "cd stable-match && npm run build",
+  "outputDirectory": "stable-match/dist",
+  "installCommand": "cd stable-match && npm install",
+  "framework": "vite",
+  "functions": {
+    "api/solve.js": {
+      "runtime": "nodejs18.x"
+    }
+  }
+}
